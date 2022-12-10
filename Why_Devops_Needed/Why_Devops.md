@@ -22,7 +22,11 @@ Every management process follows a set of principles. Here are the **three basic
 </br></br><img src="/Resources/Why_Needed/water_fall.png"/></br></br>
 
 3. **Implementation** :- This is where the action starts. The implementation phase is where the construction or coding, in the case of software development projects, happens. But this might be the shortest stage of all since the entire design is already in place. Your team will follow the documentation from the first two phases to flesh out the actual deliverable.More complex projects break down large software into smaller programs. Teams employ unit testing where they build and test one unit at a time which is later merged together for the final product. 
-4. **Maintenance** :- The maintenance stage starts after you release the product and users start using it. You can only identify some issues once the client brings the deliverable to practical use. In case a bug or faulty feature arises, your maintenance team can take care of it. This stage ends when the client is fully satisfied or continues in case they need frequent updates
+4. **Verification** :- After the implementation phase is complete, the testing or verification stage is where you make sure all requirements are met and whether the product needs debugging. Here, the quality assurance team thoroughly scans the deliverable before it reaches the client.In case they find major faults or the requirements are not met, the project goes back to stage one. However, a forced repeat of the design phase takes care of minor bugs. 
+
+You can also utilize a UAT (user acceptance test) for clients or end-users to check for faults and user experience. In case the product passes testing and verification, we move on in the waterfall.
+
+5. **Maintenance** :- The maintenance stage starts after you release the product and users start using it. You can only identify some issues once the client brings the deliverable to practical use. In case a bug or faulty feature arises, your maintenance team can take care of it. This stage ends when the client is fully satisfied or continues in case they need frequent updates
 
 In a nutshell there are three teams or players into the play namely Development, Testing and IT operations. Developmet and testing being on the same side and IT operations as different. Both works with inherent conflict.
 
