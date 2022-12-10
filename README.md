@@ -6,7 +6,7 @@ Acosalens Cloud Devops hands on guides are intended to be an open-source resourc
 ## Table of Contents
 
 * Devops
-  * [Why Devops](Account/00_Account_Basics.md)
+  * [Why Devops](Devops/Why_Devops_Needed/Why_Devops.md)
   
   * Linux
     * [IAM Basics](Identity_and_Access_Management(IAM)/00_IAM_Basics.md)
