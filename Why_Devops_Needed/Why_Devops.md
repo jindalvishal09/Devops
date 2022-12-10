@@ -24,6 +24,10 @@ Every management process follows a set of principles. Here are the **three basic
 3. **Implementation** :- This is where the action starts. The implementation phase is where the construction or coding, in the case of software development projects, happens. But this might be the shortest stage of all since the entire design is already in place. Your team will follow the documentation from the first two phases to flesh out the actual deliverable.More complex projects break down large software into smaller programs. Teams employ unit testing where they build and test one unit at a time which is later merged together for the final product. 
 4. **Maintenance** :- The maintenance stage starts after you release the product and users start using it. You can only identify some issues once the client brings the deliverable to practical use. In case a bug or faulty feature arises, your maintenance team can take care of it. This stage ends when the client is fully satisfied or continues in case they need frequent updates
 
+In a nutshell there are three teams or players into the play namely Development, Testing and IT operations. Developmet and testing being on the same side and IT operations as different. Both works with inherent conflict.
+
+Develoment and testing works with an aim of keep developing new featus as much possible based on requirement while IT operations wants to provide stable, reliable, and secure service to the customer which means less frequesnt deployement. This brings us to **Andrew Clay Shafer** iconic picture of a wall between developers and operations with a metaphorical depiction of work being thrown over the wall. He coined this “the wall of confusion.”
+</br></br><img src="/Resources/Why_Needed/wall_of_confusion.png"/></br></br>
 
 ### ⚡ _References_
 
