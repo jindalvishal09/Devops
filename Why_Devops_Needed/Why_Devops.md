@@ -6,7 +6,7 @@
 DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver 
 applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional
 software development and infrastructure management processes. This speed enables organizations to better serve their customers and
-compete more effectively in the market for access and billing. </br></br><img src="Devops/Resources/Why_Needed/Devops_basic.png"/></br></br>
+compete more effectively in the market for access and billing. </br></br><img src="/Resources/Why_Needed/Devops_basic.png"/></br></br>
 
 ### ⚡ _Basic components of Account_
 
