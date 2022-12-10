@@ -14,6 +14,17 @@ Every management process follows a set of principles. Here are the **three basic
 2. **Minimal customer involvement** :- A waterfall project involves **minimal customer interaction**. This is primarily due to the fact that operations only start after the customer’s requirements and objectives are clearly defined. The first meeting takes place before operations begin and the next when the project is in its final stages.
 3. **Robust documentation** :- This methodology also involves **in-detail documentation** of all requirements, the development process, and the final outcome. This includes everything from the timeline to the precise route you will take to solve the client’s problems. Since there’s minimal to no customer communication during the development process, **every essential detail needs to be documented upfront.**
 
+
+### ⚡ _5 Stages of the Waterfall Model – Software Development Cycle_
+
+1. **Documenting Requirements** :- The waterfall model calls for extensive documentation upfront. In the first stage, you gather information from clients or end-users regarding their requirements and the results they expect from the software or product.This is a planning phase and is the last one where you can communicate with clients before work starts on the project
+2. **Design** :- The second stage, also known as the analysis stage, is when you review the requirements and develop a design to meet them. Here, your team identifies the path it will take to deliver a solution and the relevant specifications. The second stage is often divided into two parts: the logical design and the physical design stage
+</br></br><img src="/Resources/Why_Needed/water_fall.png"/></br></br>
+
+3. **Implementation** :- This is where the action starts. The implementation phase is where the construction or coding, in the case of software development projects, happens. But this might be the shortest stage of all since the entire design is already in place. Your team will follow the documentation from the first two phases to flesh out the actual deliverable.More complex projects break down large software into smaller programs. Teams employ unit testing where they build and test one unit at a time which is later merged together for the final product. 
+4. **Maintenance** :- The maintenance stage starts after you release the product and users start using it. You can only identify some issues once the client brings the deliverable to practical use. In case a bug or faulty feature arises, your maintenance team can take care of it. This stage ends when the client is fully satisfied or continues in case they need frequent updates
+
+
 ### ⚡ _References_
 
 * [What is DevOps?](https://aws.amazon.com/devops/what-is-devops/)
