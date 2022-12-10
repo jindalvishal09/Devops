@@ -26,10 +26,43 @@ Every management process follows a set of principles. Here are the **three basic
 
 In a nutshell there are three teams or players into the play namely Development, Testing and IT operations. Developmet and testing being on the same side and IT operations as different. Both works with inherent conflict.
 
-Develoment and testing works with an aim of keep developing new featus as much possible based on requirement while IT operations wants to provide stable, reliable, and secure service to the customer which means less frequesnt deployement. This brings us to **Andrew Clay Shafer** iconic picture of a wall between developers and operations with a metaphorical depiction of work being thrown over the wall. He coined this “the wall of confusion.”
+### ⚡ _Chronic Conflict Between Development and Operations_
+Among many other key responsibilities, there are two major missions in your IT organization:
+
+1. Your development team has to quickly deliver to respond changing demands from your clients and from the market your business serves for.
+2. Your IT operations team has to guarantee stable, predictable, secure and continuous service to serve your clients and market.
+
+**Now You’re in Technical Debt** Continuous firefighting, workarounds and unplanned activities to save your day will only result in accumulation of more technical debt. This not only impacts the performance of your development and operations, but it also negatively impacts all other units including your architecture, information security, testing, product management, release management and your business stakeholders.
+
+You can resemble technical debt in financial debt. The more financial debt you have, the less options you have got to reach your desired goals. Ultimately it becomes almost impossible to give correct decision to reach the desired outcomes and you would be more likely to make additional financial debt.
+
+This brings us to **Andrew Clay Shafer** iconic picture of a wall between developers and operations with a metaphorical depiction of work being thrown over the wall. He coined this **“the wall of confusion.”**
 </br></br><img src="/Resources/Why_Needed/wall_of_confusion.png"/></br></br>
+
+### ⚡ _Problems without DevOps_
+
+1. Developers wait days/week for infrastructure provisioning.
+2. Manual or ad-hoc deployement of software.
+3. No standard software/tools used across teams/business units
+4. Developers lack visibility to production enviroment
+5. Security is configured ad hoc like deployement.
+
+### ⚡ _Imagine a World Where Dev and Ops Become DevOps_
+**DevOps** enables organizations to create a safe system of work, where small teams are able to quickly and independently develop, test, and deploy code and value
+quickly, safely, securely, and reliably to customers. This allows organizations to maximize developer productivity, enable organizational learning, create high
+employee satisfaction, and win in the marketplace.
+
+### ⚡ _Benefits of DevOps_
+
+1. **Speed** :- Move at high velocity so you can innovate for customers faster, adapt to changing markets better, and grow more efficient at driving business results. The DevOps model enables your developers and operations teams to achieve these results. For example, microservices and continuous delivery let teams take ownership of services and then release updates to them quicker.
+2. **Reliability** :- Ensure the quality of application updates and infrastructure changes so you can reliably deliver at a more rapid pace while maintaining a positive experience for end users. Use practices like continuous integration and continuous delivery to test that each change is functional and safe. Monitoring and logging practices help you stay informed of performance in real-time.
+3. **Scale** :- Operate and manage your infrastructure and development processes at scale. Automation and consistency help you manage complex or changing systems efficiently and with reduced risk. For example, infrastructure as code helps you manage your development, testing, and production environments in a repeatable and more efficient manner.
+4. **Improved Collaboration** :- Build more effective teams under a DevOps cultural model, which emphasizes values such as ownership and accountability. Developers and operations teams collaborate closely, share many responsibilities, and combine their workflows. This reduces inefficiencies and saves time (e.g. reduced handover periods between developers and operations, writing code that takes into account the environment in which it is run).
+5. **Security** :- Move quickly while retaining control and preserving compliance. You can adopt a DevOps model without sacrificing security by using automated compliance policies, fine-grained controls, and configuration management techniques. For example, using infrastructure as code and policy as code, you can define and then track compliance at scale.
 
 ### ⚡ _References_
 
 * [What is DevOps?](https://aws.amazon.com/devops/what-is-devops/)
 * [Waterfall-Methodology](https://managementhelp.org/waterfall-methodology)
+* [The DevOps Handbook]
+* [What_Are_Your_Problems_In_IT_Without_DevOps](https://www.devops-certification.org/What_Are_Your_Problems_In_IT_Without_DevOps.php)
