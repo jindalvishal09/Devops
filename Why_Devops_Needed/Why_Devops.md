@@ -2,11 +2,21 @@
 
 # Why Devops
 
+### ⚡ _Fun fact on DevOps?_
+
+DevOps is the outcome of applying the most trusted principles from the domain of physical manufacturing and leadership to the IT value stream. DevOps relies
+on bodies of knowledge from Lean, Theory of Constraints, the Toyota Production System, resilience engineering, learning organizations, safety culture,
+human factors, and many others.
+
+While the foundation of DevOps can be seen as being derived from Lean, the Theory of Constraints, and the Toyota Kata movement, many also view DevOps as the logical continuation of the Agile software journey that began in 2001.
+
 ### ⚡ _What is DevOps?_
 DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver 
 applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional
 software development and infrastructure management processes. This speed enables organizations to better serve their customers and
 compete more effectively in the market for access and billing. </br></br><img src="/Resources/Why_Needed/Devops_basic.png"/></br></br>
+
+
 
 ### ⚡ _Software Development in legacy system aka non-agile_
 Every management process follows a set of principles. Here are the **three basic principles** the waterfall project management methodology goes by. 
@@ -48,6 +58,16 @@ This brings us to **Andrew Clay Shafer** iconic picture of a wall between develo
 3. No standard software/tools used across teams/business units
 4. Developers lack visibility to production enviroment
 5. Security is configured ad hoc like deployement.
+
+### ⚡ _THE AGILE MANIFESTO_
+
+The Agile Manifesto was created in 2001 by seventeen of the leading thinkers in software development. They wanted to create a lightweight set of values and
+principles against heavyweight software development processes such as waterfall development, and methodologies such as the Rational Unified Process.
+
+One key principle was to **“deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale,”** emphasizing the desire for small batch sizes, incremental releases instead of large, waterfall releases. Other principles emphasized the need for small, selfmotivated
+teams, working in a high-trust management model. Agile is credited for dramatically increasing the productivity of many development organizations. And interestingly, many of the key moments in DevOps history also occurred within the Agile community
+
+</br></br><img src="/Resources/Why_Needed/dev_ops_significance.png"/></br></br>
 
 ### ⚡ _Imagine a World Where Dev and Ops Become DevOps_
 **DevOps** enables organizations to create a safe system of work, where small teams are able to quickly and independently develop, test, and deploy code and value
